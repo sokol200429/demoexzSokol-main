@@ -1,0 +1,73 @@
+.body {
+  max-width: 1200px;
+  max-height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(223, 210, 210);
+}
+.header {
+  display: flex;
+  justify-content: space-around;
+  border-radius: 10px;
+  background-color: rgb(216, 149, 149);
+  max-width: 1200px;
+  height: 40px;
+}
+.admin {
+  padding: 10px;
+  font-family: cursive;
+  font-size: 20px;
+}
+.vihod {
+  font-family: cursive;
+  font-size: 20px;
+  padding: 10px;
+  color: black;
+}
+.logo {
+}
+.katalog {
+  font-family: cursive;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: black;
+}
+.login {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.vynilss:hover {
+  transform: scale(1.1);
+  transition: 1s;
+  color: rgb(144, 114, 69);
+}
+.vhod {
+  font-family: cursive;
+  font-size: 20px;
+  color: black;
+  padding: 10px;
+}
+.vhod:hover {
+  transform: scale(1.1);
+  transition: 1s;
+  color: rgb(144, 114, 69);
+}
+.register {
+  font-size: 20px;
+  margin-left: 20px;
+  font-family: cursive;
+  color: black;
+}
+.register:hover {
+  transform: scale(1.1);
+  transition: 1s;
+  color: rgb(144, 114, 69);
+}
+.katalog:hover {
+  transform: scale(1.1);
+  transition: 1s;
+  color: rgb(144, 114, 69);
+}
